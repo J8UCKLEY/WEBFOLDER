@@ -4,8 +4,7 @@ body {
 } 
 
 #links {
-    font-display: rgb(233, 98, 7);
-    display: inline-block;
+    color: rgb(233, 98, 7);
 }
 
 .navfont {
@@ -25,7 +24,7 @@ body {
 }
 
 button {
-    color:rgb(233, 98, 7);
+    color:snow;
     background-color: rgb(0, 0, 0);
     width: 200px;
     align-self: center
@@ -39,7 +38,8 @@ h2 {
     color: black;
 }
 
-.a {
+a {
     font-family: 'Courier New', Courier, monospace;
-    color: sienna, 0.8;
+    outline-color: sienna, 0.8;
+    font-size: 20px;
 }
