@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+#links {
+    font-display: rgb(233, 98, 7);
+    display: inline-block;
+}
+
+.navfont {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container {
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(233, 98, 7);
+}
+
+.content-text { 
+    color:rgb(233, 98, 7);
+}
+
+button {
+    color:rgb(233, 98, 7);
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    align-self: center
+}
+
+img {
+    width: 450px;
+}
+
+h2 {
+    color: black;
+}
+
+.a {
+    font-family: 'Courier New', Courier, monospace;
+    color: sienna, 0.8;
+}
